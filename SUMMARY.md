@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Welcome to Programming Fundamentals](README.md)
-* [What Is Programming?](what-is-programming.md)
-
+- [Welcome to Programming Fundamentals](README.md)
+- [What Is Programming?](what-is-programming.md)
+- [Introduction to Javascript - Variables](intro-to-js-variables.md)
