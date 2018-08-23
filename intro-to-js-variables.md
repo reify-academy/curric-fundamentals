@@ -1,4 +1,4 @@
-# 1.0. Introduction to Javascript
+# 1.0. Introduction to Javascript - Variables
 
 ## Main Content
 
