@@ -7,3 +7,4 @@
 - [Arthimetic Operators](js-arith-operators.md)
 - [Data Structures](js-data-structures.md)
 - [Loops in Javascript](js-loops.md)
+- [Functions in Javascript](js-functions.md)
