@@ -4,3 +4,4 @@
 - [What Is Programming?](what-is-programming.md)
 - [Introduction to Javascript - Variables](intro-to-js-variables.md)
 - [Comparison Operators](js-comparison-operators.md)
+- [Arthimetic Operators](js-arith-operators.md)
