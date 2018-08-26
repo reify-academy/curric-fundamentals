@@ -5,3 +5,4 @@
 - [Introduction to Javascript - Variables](intro-to-js-variables.md)
 - [Comparison Operators](js-comparison-operators.md)
 - [Arthimetic Operators](js-arith-operators.md)
+- [Data Structures](js-data-structures.md)
