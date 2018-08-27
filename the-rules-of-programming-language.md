@@ -1,11 +1,14 @@
 # 1.0. What Is Programming?
 
-## Main Content 
-[Video Course](https://www.pluralsight.com/courses/b412f16f-a518-4075-8aae-43beb2f3888f)
+## Video Content
+[Module - The Rule Of Programming Language(33m)](https://app.pluralsight.com/player?course=what-is-programming&author=simon-allardice&name=what-is-programming-m2&clip=0&mode=live)
 
-[Text Course](https://medium.freecodecamp.org/a-gentler-introduction-to-programming-1f57383a1b2c) - only Part 1.
+## Text Content
 
-## Extra reading
+[JavaScript Basics](https://gitbookio.gitbooks.io/javascript/content/basics/)
+[Comments](https://gitbookio.gitbooks.io/javascript/content/basics/comments.html)
+
+## Extra reading(Optional)
 [Think Julia: How to Think Like a Computer Scientist](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html)
 
 
