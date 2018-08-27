@@ -1,7 +1,7 @@
 # Table of contents
 
 - [Welcome to Programming Fundamentals](README.md)
-- [The Rules of Programming Language](what-is-programming.md)
+- [The Rules of Programming Language](the-rules-of-programming-language.md)
 - [Introduction to Javascript - Variables](intro-to-js-variables.md)
 - [Comparison Operators](js-comparison-operators.md)
 - [Arthimetic Operators](js-arith-operators.md)
