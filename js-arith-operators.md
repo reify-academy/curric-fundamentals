@@ -1,4 +1,4 @@
-# 1.0. JavaScript's Operators for Arithmitic
+# Arthimetic Operators
 
 ## Main Content
 
@@ -6,6 +6,3 @@
 
 ## Exercise
 
-## Extra Resources
-
-[Text Content - Eloquent Javascript's Values chapter](https://eloquentjavascript.net/01_values.html)

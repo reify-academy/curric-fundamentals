@@ -1,4 +1,4 @@
-# 1.0. Loops in Javascript
+# Loops in Javascript
 
 ## Main Content
 
@@ -6,6 +6,3 @@
 
 ## Exercise
 
-## Extra Resources
-
-[Text Content - Eloquent Javascript's Data Structures Chapter](https://eloquentjavascript.net/04_data.html)
