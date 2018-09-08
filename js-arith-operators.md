@@ -10,5 +10,9 @@
 * [Arrays](https://gitbookio.gitbooks.io/javascript/content/arrays/)
 * [Objects](https://gitbookio.gitbooks.io/javascript/content/objects/)
 
-### Exercise
+### Practise
+
+* [Everything is a function](https://scrimba.com/p/pPPeCy/cpKZdcQ)
+* [The more the merrier](https://scrimba.com/p/pPPeCy/czM96Sr)
+* [When things get complicated](https://scrimba.com/p/pPPeCy/cwv7dHr)
 

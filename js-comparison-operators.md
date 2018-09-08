@@ -10,5 +10,7 @@
 * [Conditionals](https://gitbookio.gitbooks.io/javascript/content/conditional/)
 * ​[Loops](https://gitbookio.gitbooks.io/javascript/content/loops/)
 
-## Exercise
+### Practise
+
+* [What if](https://scrimba.com/p/pPPeCy/cJMqbsJ)
 

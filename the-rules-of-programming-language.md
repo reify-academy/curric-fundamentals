@@ -14,7 +14,7 @@
 
 [Think Julia: How to Think Like a Computer Scientist](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html)
 
-## Exercises
+### Practise
 
 [Introduction to Exercise Platform](https://scrimba.com/casts/cast-279)
 
