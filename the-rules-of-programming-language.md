@@ -6,7 +6,9 @@
 
 ## Text Content
 
-[JavaScript Basics](https://gitbookio.gitbooks.io/javascript/content/basics/) [Comments](https://gitbookio.gitbooks.io/javascript/content/basics/comments.html)
+[JavaScript Basics](https://gitbookio.gitbooks.io/javascript/content/basics/) 
+
+[Comments](https://gitbookio.gitbooks.io/javascript/content/basics/comments.html)
 
 ## Extra reading\(Optional\)
 
