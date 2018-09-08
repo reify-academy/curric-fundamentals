@@ -1,6 +1,6 @@
 # 3. Managing Program Flow
 
-## Video Content
+### Video Content
 
 [Module - Managing Program Flow](https://app.pluralsight.com/player?course=what-is-programming&author=simon-allardice&name=what-is-programming-m4&clip=0&mode=live)
 
