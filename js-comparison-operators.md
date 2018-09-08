@@ -1,8 +1,14 @@
 # 3. Managing Program Flow
 
-## Main Content
+## Video Content
 
-[Text Course - Equality](https://gitbookio.gitbooks.io/javascript/content/basics/equality.html) [Text Course - Strings Chapter](https://gitbookio.gitbooks.io/javascript/content/strings/) [Text Course - Conditionals](https://gitbookio.gitbooks.io/javascript/content/conditional/)
+[Module - Managing Program Flow](https://app.pluralsight.com/player?course=what-is-programming&author=simon-allardice&name=what-is-programming-m4&clip=0&mode=live)
+
+### Text Content
+
+* [Equality](https://gitbookio.gitbooks.io/javascript/content/basics/equality.html) 
+* [Conditionals](https://gitbookio.gitbooks.io/javascript/content/conditional/)
+* ​[Loops](https://gitbookio.gitbooks.io/javascript/content/loops/)
 
 ## Exercise
 
