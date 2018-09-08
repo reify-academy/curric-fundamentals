@@ -1,4 +1,4 @@
-# Comparison Operators
+# 3. Managing Program Flow
 
 ## Main Content
 

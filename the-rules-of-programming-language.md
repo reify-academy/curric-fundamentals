@@ -1,4 +1,4 @@
-# The Rules of Programming Language
+# 1. The Rules of Programming Language
 
 ## Video Content
 

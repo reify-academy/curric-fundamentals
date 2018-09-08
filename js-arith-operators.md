@@ -1,4 +1,4 @@
-# Arthimetic Operators
+# 4. Making Things Modular
 
 ## Main Content
 
