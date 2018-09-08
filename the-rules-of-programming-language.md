@@ -16,5 +16,5 @@
 
 ## Exercises
 
-[Introduction](https://scrimba.com/p/pPPeCy/c7veET3)  
+[Introduction to Exercise Platform](https://scrimba.com/casts/cast-279)
 
