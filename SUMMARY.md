@@ -5,4 +5,5 @@
 * [2. Working With Data](intro-to-js-variables.md)
 * [3. Managing Program Flow](js-comparison-operators.md)
 * [4. Making Things Modular](js-arith-operators.md)
+* [5. Summary](5.-summary.md)
 
